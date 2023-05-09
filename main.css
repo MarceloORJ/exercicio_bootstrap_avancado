@@ -1,0 +1,35 @@
+.text-light{
+    text-shadow: 0px 0px 7px #000000;
+    margin: 16px 0px;
+}
+
+.card{
+    margin: 16px 0px;
+}
+
+.card-body{
+    text-shadow: 0px 0px 7px #000000;
+}
+
+.card-img-overlay:hover{
+    background-color: #00000081;
+    
+}
+
+.card-body{
+    height: 87%;
+}
+
+.card-footer{
+    height: 13%;
+}
+
+.btn{    
+    width: 100%;
+}
+
+#carousel-exercicio{
+    margin-top: 16px;
+    
+}
+
